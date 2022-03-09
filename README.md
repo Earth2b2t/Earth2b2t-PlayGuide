@@ -1,2 +1,2 @@
-# Earth2b2t-Playguide
-markdown
+# Earth2b2t PlayGuide
+playguideのマークダウン用レポジトリ
