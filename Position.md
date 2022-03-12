@@ -1,8 +1,6 @@
 # 役職  
 Earth2b2tの国家で設定される役職は、それぞれ3つとなります。
 
-![国民の詳細の画像gui](https://user-images.githubusercontent.com/80201746/157888180-613157a6-197f-4843-8afa-881cf226befd.png)  
-
 #### 市民  
 
 国家に入った際に最初に与えられる役職です。  
