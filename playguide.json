@@ -1,111 +1,111 @@
 [
-        {
-            "name": "ようこそ",
-            "path": "/guide",
-            "isContent": true,
-            "isHidden": false
-        },
-        {
-            "name": "基本システム",
-            "isContent": false,
-            "contents": [
-                {
-                    "name": "ワールド",
-                    "path": "/guide/world",
-                    "isHidden": false
-                },
-                {
-                    "name": "通貨",
-                    "path": "/guide/currency",
-                    "isHidden": false
-                },
-                {
-                    "name": "デイリークエスト",
-                    "path": "/guide/dailyquest",
-                    "isHidden": false
-                },
-                {
-                    "name": "アドベンチャーチェスト",
-                    "path": "/guide/adventurechest",
-                    "isHidden": false
-                },
-                {
-                    "name": "コンバットログ",
-                    "path": "/guide/combatlog",
-                    "isHidden": false
-                }
-            ]
-        },
-        {
-            "name": "国家・戦争",
-            "isContent": false,
-            "contents": [
-                {
-                    "name": "建国",
-                    "path": "/guide/nation",
-                    "isHidden": false
-                },
-                {
-                    "name": "維持ポイント",
-                    "path": "/guide/point",
-                    "isHidden": false
-                },
-                {
-                    "name": "役職",
-                    "path": "/guide/position",
-                    "isHidden": false
-                },
-                {
-                    "name": "国庫",
-                    "path": "/guide/bank",
-                    "isHidden": false
-                },
-                {
-                    "name": "領地",
-                    "path": "/guide/territory",
-                    "isHidden": false
-                },
-                {
-                    "name": "防衛強化",
-                    "path": "/guide/defense",
-                    "isHidden": false
-                },
-                {
-                    "name": "戦争",
-                    "path": "/guide/war",
-                    "isHidden": false
-                },
-                {
-                    "name": "賠償金",
-                    "path": "/guide/reparations",
-                    "isHidden": false
-                }
-            ]
-        },
-        {
-            "name": "その他",
-            "isContent": false,
-            "contents": [
-                {
-                    "name": "コマンド",
-                    "path": "/guide/command",
-                    "isHidden": false
-                },
-                {
-                    "name": "アイテム制限",
-                    "path": "/guide/item",
-                    "isHidden": true
-                },
-                {
-                    "name": "有償ランク",
-                    "path": "/guide/rank",
-                    "isHidden": true
-                },
-                {
-                    "name": "Dynmap",
-                    "path": "/guide/dynmap",
-                    "isHidden": false
-                }
-            ]
-        }
-    ]
+    {
+        "name": "ようこそ",
+        "path": "/guide",
+        "isContent": true,
+        "isHidden": false
+    },
+    {
+        "name": "基本システム",
+        "isContent": false,
+        "contents": [
+            {
+                "name": "ワールド",
+                "path": "/guide/world",
+                "isHidden": false
+            },
+            {
+                "name": "通貨",
+                "path": "/guide/currency",
+                "isHidden": false
+            },
+            {
+                "name": "デイリークエスト",
+                "path": "/guide/dailyquest",
+                "isHidden": false
+            },
+            {
+                "name": "アドベンチャーチェスト",
+                "path": "/guide/adventurechest",
+                "isHidden": false
+            },
+            {
+                "name": "コンバットログ",
+                "path": "/guide/combatlog",
+                "isHidden": false
+            }
+        ]
+    },
+    {
+        "name": "国家・戦争",
+        "isContent": false,
+        "contents": [
+            {
+                "name": "建国",
+                "path": "/guide/nation",
+                "isHidden": false
+            },
+            {
+                "name": "維持ポイント",
+                "path": "/guide/point",
+                "isHidden": false
+            },
+            {
+                "name": "役職",
+                "path": "/guide/position",
+                "isHidden": false
+            },
+            {
+                "name": "国庫",
+                "path": "/guide/bank",
+                "isHidden": false
+            },
+            {
+                "name": "領地",
+                "path": "/guide/territory",
+                "isHidden": false
+            },
+            {
+                "name": "防衛強化",
+                "path": "/guide/defense",
+                "isHidden": false
+            },
+            {
+                "name": "戦争",
+                "path": "/guide/war",
+                "isHidden": false
+            },
+            {
+                "name": "賠償金",
+                "path": "/guide/reparations",
+                "isHidden": false
+            }
+        ]
+    },
+    {
+        "name": "その他",
+        "isContent": false,
+        "contents": [
+            {
+                "name": "コマンド",
+                "path": "/guide/command",
+                "isHidden": false
+            },
+            {
+                "name": "アイテム制限",
+                "path": "/guide/item",
+                "isHidden": true
+            },
+            {
+                "name": "有償ランク",
+                "path": "/guide/rank",
+                "isHidden": true
+            },
+            {
+                "name": "Dynmap",
+                "path": "/guide/dynmap",
+                "isHidden": false
+            }
+        ]
+    }
+]
