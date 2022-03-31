@@ -2,6 +2,14 @@
     {
         "name": "ようこそ",
         "path": "/guide",
+        "markdown": "/playguide-markdown/welcome.md",
+        "isContent": true,
+        "isHidden": false
+    },
+    {
+        "name": "よくある質問",
+        "path": "/faq",
+        "markdown": "/faq-markdown/faq.md",
         "isContent": true,
         "isHidden": false
     },
@@ -12,26 +20,31 @@
             {
                 "name": "ワールド",
                 "path": "/guide/world",
+                "markdown": "/playguide-markdown/world.md",
                 "isHidden": false
             },
             {
                 "name": "通貨",
                 "path": "/guide/currency",
+                "markdown": "/playguide-markdown/currency.md",
                 "isHidden": false
             },
             {
                 "name": "デイリークエスト",
                 "path": "/guide/dailyquest",
+                "markdown": "/playguide-markdown/dailyquest.md",
                 "isHidden": false
             },
             {
                 "name": "アドベンチャーチェスト",
                 "path": "/guide/adventurechest",
+                "markdown": "/playguide-markdown/adventurechest.md",
                 "isHidden": false
             },
             {
                 "name": "コンバットログ",
                 "path": "/guide/combatlog",
+                "markdown": "/playguide-markdown/combatlog.md",
                 "isHidden": false
             }
         ]
@@ -43,41 +56,43 @@
             {
                 "name": "建国",
                 "path": "/guide/nation",
+                "markdown": "/playguide-markdown/nation.md",
                 "isHidden": false
             },
             {
                 "name": "維持ポイント",
                 "path": "/guide/point",
+                "markdown": "/playguide-markdown/point.md",
                 "isHidden": false
             },
             {
                 "name": "役職",
                 "path": "/guide/position",
+                "markdown": "/playguide-markdown/position.md",
                 "isHidden": false
             },
             {
                 "name": "国庫",
                 "path": "/guide/bank",
+                "markdown": "/playguide-markdown/bank.md",
                 "isHidden": false
             },
             {
                 "name": "領地",
                 "path": "/guide/territory",
-                "isHidden": false
-            },
-            {
-                "name": "防衛強化",
-                "path": "/guide/defense",
+                "markdown": "/playguide-markdown/territory.md",
                 "isHidden": false
             },
             {
                 "name": "戦争",
                 "path": "/guide/war",
+                "markdown": "/playguide-markdown/war.md",
                 "isHidden": false
             },
             {
                 "name": "賠償金",
                 "path": "/guide/reparations",
+                "markdown": "/playguide-markdown/compensation.md",
                 "isHidden": false
             }
         ]
@@ -89,21 +104,25 @@
             {
                 "name": "コマンド",
                 "path": "/guide/command",
+                "markdown": "/playguide-markdown/command.md",
                 "isHidden": false
             },
             {
                 "name": "アイテム制限",
                 "path": "/guide/item",
+                "markdown": "/playguide-markdown/item.md",
                 "isHidden": true
             },
             {
                 "name": "有償ランク",
                 "path": "/guide/rank",
+                "markdown": "/playguide-markdown/rank.md",
                 "isHidden": true
             },
             {
                 "name": "Dynmap",
                 "path": "/guide/dynmap",
+                "markdown": "/playguide-markdown/dynmap.md",
                 "isHidden": false
             }
         ]
