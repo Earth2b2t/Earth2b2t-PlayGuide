@@ -7,7 +7,7 @@
         "isHidden": false
     },
     {
-        "name": "よくある質問",
+        "name": "よくあるご質問",
         "path": "/faq",
         "markdown": "/faq-markdown/faq.md",
         "isContent": true,
@@ -60,6 +60,12 @@
                 "isHidden": false
             },
             {
+                "name": "国家通貨",
+                "path": "/guide/nationcurrency",
+                "markdown": "/playguide-markdown/nationcurrency.md",
+                "isHidden": false
+            },
+            {
                 "name": "維持ポイント",
                 "path": "/guide/point",
                 "markdown": "/playguide-markdown/point.md",
@@ -73,8 +79,14 @@
             },
             {
                 "name": "国庫",
+                "path": "/guide/nationbank",
+                "markdown": "/playguide-markdown/nationbank.md",
+                "isHidden": false
+            },
+            {
+                "name": "銀行",
                 "path": "/guide/bank",
-                "markdown": "/playguide-markdown/bank.md",
+                "markdown": "/playguide-markdown/point.md",
                 "isHidden": false
             },
             {
@@ -102,22 +114,10 @@
         "isContent": false,
         "contents": [
             {
-                "name": "コマンド",
+                "name": "コマンド一覧",
                 "path": "/guide/command",
                 "markdown": "/playguide-markdown/command.md",
                 "isHidden": false
-            },
-            {
-                "name": "アイテム制限",
-                "path": "/guide/item",
-                "markdown": "/playguide-markdown/item.md",
-                "isHidden": true
-            },
-            {
-                "name": "有償ランク",
-                "path": "/guide/rank",
-                "markdown": "/playguide-markdown/rank.md",
-                "isHidden": true
             },
             {
                 "name": "Dynmap",
