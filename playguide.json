@@ -86,7 +86,7 @@
             {
                 "name": "銀行",
                 "path": "/guide/bank",
-                "markdown": "/playguide-markdown/point.md",
+                "markdown": "/playguide-markdown/bank.md",
                 "isHidden": false
             },
             {
