@@ -7,7 +7,7 @@
         "isHidden": false
     },
     {
-        "name": "よくあるご質問",
+        "name": "よくある質問",
         "path": "/faq",
         "markdown": "/faq-markdown/faq.md",
         "isContent": true,
