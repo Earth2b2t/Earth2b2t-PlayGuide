@@ -7,7 +7,7 @@
         "isHidden": false
     },
     {
-        "name": "よくある質問",
+        "name": "よくあるご質問",
         "path": "/faq",
         "markdown": "/faq-markdown/faq.md",
         "isContent": true,
@@ -84,12 +84,6 @@
                 "isHidden": false
             },
             {
-                "name": "銀行",
-                "path": "/guide/bank",
-                "markdown": "/playguide-markdown/bank.md",
-                "isHidden": false
-            },
-            {
                 "name": "領地",
                 "path": "/guide/territory",
                 "markdown": "/playguide-markdown/territory.md",
@@ -105,7 +99,7 @@
                 "name": "賠償金",
                 "path": "/guide/reparations",
                 "markdown": "/playguide-markdown/compensation.md",
-                "isHidden": true
+                "isHidden": false
             }
         ]
     },
@@ -114,13 +108,13 @@
         "isContent": false,
         "contents": [
             {
-                "name": "コマンド一覧",
+                "name": "コマンド",
                 "path": "/guide/command",
                 "markdown": "/playguide-markdown/command.md",
                 "isHidden": false
             },
             {
-                "name": "Dynmap",
+                "name": "世界マップ",
                 "path": "/guide/dynmap",
                 "markdown": "/playguide-markdown/dynmap.md",
                 "isHidden": false
