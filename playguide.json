@@ -24,7 +24,7 @@
                 "isHidden": false
             },
             {
-                "name": "通貨",
+                "name": "クレジット",
                 "path": "/guide/currency",
                 "markdown": "/playguide-markdown/currency.md",
                 "isHidden": false
@@ -39,6 +39,12 @@
                 "name": "アドベンチャーチェスト",
                 "path": "/guide/adventurechest",
                 "markdown": "/playguide-markdown/adventurechest.md",
+                "isHidden": false
+            },
+            {
+                "name": "チェストショップ",
+                "path": "/guide/chestshop",
+                "markdown": "/playguide-markdown/chestshop.md",
                 "isHidden": false
             },
             {
@@ -69,7 +75,7 @@
                 "name": "維持ポイント",
                 "path": "/guide/point",
                 "markdown": "/playguide-markdown/point.md",
-                "isHidden": false
+                "isHidden": true
             },
             {
                 "name": "役職",
@@ -81,7 +87,7 @@
                 "name": "国庫",
                 "path": "/guide/nationbank",
                 "markdown": "/playguide-markdown/nationbank.md",
-                "isHidden": false
+                "isHidden": true
             },
             {
                 "name": "領地",
