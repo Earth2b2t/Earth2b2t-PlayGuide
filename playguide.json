@@ -18,6 +18,12 @@
         "isContent": false,
         "contents": [
             {
+                "name": "GUIメニュー",
+                "path": "/guide/guimenu",
+                "markdown": "/playguide-markdown/guimenu.md",
+                "isHidden": false
+            },
+            {
                 "name": "ワールド",
                 "path": "/guide/world",
                 "markdown": "/playguide-markdown/world.md",
@@ -56,11 +62,11 @@
         ]
     },
     {
-        "name": "国家・戦争",
+        "name": "国家",
         "isContent": false,
         "contents": [
             {
-                "name": "建国",
+                "name": "国家の作り方",
                 "path": "/guide/nation",
                 "markdown": "/playguide-markdown/nation.md",
                 "isHidden": false
@@ -72,22 +78,10 @@
                 "isHidden": false
             },
             {
-                "name": "維持ポイント",
-                "path": "/guide/point",
-                "markdown": "/playguide-markdown/point.md",
-                "isHidden": true
-            },
-            {
                 "name": "役職",
                 "path": "/guide/position",
                 "markdown": "/playguide-markdown/position.md",
                 "isHidden": false
-            },
-            {
-                "name": "国庫",
-                "path": "/guide/nationbank",
-                "markdown": "/playguide-markdown/nationbank.md",
-                "isHidden": true
             },
             {
                 "name": "領地",
@@ -96,9 +90,51 @@
                 "isHidden": false
             },
             {
-                "name": "戦争",
+                "name": "同盟",
+                "path": "/guide/territory",
+                "markdown": "/playguide-markdown/alliance.md",
+                "isHidden": false
+            },
+            {
+                "name": "保護と販売",
+                "path": "/guide/territory",
+                "markdown": "/playguide-markdown/alliance.md",
+                "isHidden": false
+            }
+        ]
+    },
+    {
+        "name": "戦争",
+        "isContent": false,
+        "contents": [
+            {
+                "name": "戦争の始め方",
                 "path": "/guide/war",
                 "markdown": "/playguide-markdown/war.md",
+                "isHidden": false
+           },
+            {
+                "name": "ネクサス",
+                "path": "/guide/nexus",
+                "markdown": "/playguide-markdown/war.md",
+                "isHidden": false
+           },
+            {
+                "name": "猶予期間",
+                "path": "/guide/grace",
+                "markdown": "/playguide-markdown/grace.md",
+                "isHidden": false
+           },
+            {
+                "name": "領地の奪取",
+                "path": "/guide/take",
+                "markdown": "/playguide-markdown/take.md",
+                "isHidden": false
+           },
+            {
+                "name": "ロールバック",
+                "path": "/guide/rollback",
+                "markdown": "/playguide-markdown/rollback.md",
                 "isHidden": false
             },
             {
@@ -113,6 +149,12 @@
         "name": "その他",
         "isContent": false,
         "contents": [
+            {
+                "name": "有償ランク",
+                "path": "/guide/rank",
+                "markdown": "/playguide-markdown/rank.md",
+                "isHidden": false
+            },
             {
                 "name": "コマンド",
                 "path": "/guide/command",
