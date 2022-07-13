@@ -18,9 +18,9 @@
         "isContent": false,
         "contents": [
             {
-                "name": "GUIメニュー",
-                "path": "/guide/guimenu",
-                "markdown": "/playguide-markdown/war.md",
+                "name": "メニューGUI",
+                "path": "/guide/menu",
+                "markdown": "/playguide-markdown/menu.md",
                 "isHidden": false
             },
             {
