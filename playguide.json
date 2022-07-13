@@ -73,8 +73,8 @@
             },
             {
                 "name": "国家を発展させる",
-                "path": "/guide/nationdev",
-                "markdown": "/playguide-markdown/nationdev.md",
+                "path": "/guide/development",
+                "markdown": "/playguide-markdown/development.md",
                 "isHidden": false
             },
             {
@@ -97,14 +97,14 @@
            },
             {
                 "name": "終戦までの流れ",
-                "path": "/guide/duringwar",
-                "markdown": "/playguide-markdown/duringwar.md",
+                "path": "/guide/during",
+                "markdown": "/playguide-markdown/during.md",
                 "isHidden": false
            },
             {
                 "name": "終戦後の流れ",
-                "path": "/guide/afterwar",
-                "markdown": "/playguide-markdown/afterwar.md",
+                "path": "/guide/after",
+                "markdown": "/playguide-markdown/after.md",
                 "isHidden": false
             }
         ]
