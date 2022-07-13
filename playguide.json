@@ -7,7 +7,7 @@
         "isHidden": false
     },
     {
-        "name": "よくあるご質問",
+        "name": "よくある質問",
         "path": "/faq",
         "markdown": "/faq-markdown/faq.md",
         "isContent": true,
@@ -18,7 +18,7 @@
         "isContent": false,
         "contents": [
             {
-                "name": "メニューGUI",
+                "name": "メインメニュー",
                 "path": "/guide/menu",
                 "markdown": "/playguide-markdown/menu.md",
                 "isHidden": false
@@ -72,33 +72,15 @@
                 "isHidden": false
             },
             {
-                "name": "国家通貨",
-                "path": "/guide/nationcurrency",
-                "markdown": "/playguide-markdown/nationcurrency.md",
+                "name": "国家を発展させる",
+                "path": "/guide/nationdev",
+                "markdown": "/playguide-markdown/nationdev.md",
                 "isHidden": false
             },
             {
-                "name": "役職",
-                "path": "/guide/position",
-                "markdown": "/playguide-markdown/position.md",
-                "isHidden": false
-            },
-            {
-                "name": "領地",
-                "path": "/guide/territory",
-                "markdown": "/playguide-markdown/territory.md",
-                "isHidden": false
-            },
-            {
-                "name": "同盟",
-                "path": "/guide/territory",
-                "markdown": "/playguide-markdown/alliance.md",
-                "isHidden": false
-            },
-            {
-                "name": "保護と販売",
-                "path": "/guide/territory",
-                "markdown": "/playguide-markdown/alliance.md",
+                "name": "建築を保護する",
+                "path": "/guide/protection",
+                "markdown": "/playguide-markdown/protection.md",
                 "isHidden": false
             }
         ]
@@ -114,33 +96,15 @@
                 "isHidden": false
            },
             {
-                "name": "ネクサス",
-                "path": "/guide/nexus",
-                "markdown": "/playguide-markdown/war.md",
+                "name": "終戦までの流れ",
+                "path": "/guide/duringwar",
+                "markdown": "/playguide-markdown/duringwar.md",
                 "isHidden": false
            },
             {
-                "name": "猶予期間",
-                "path": "/guide/grace",
-                "markdown": "/playguide-markdown/grace.md",
-                "isHidden": false
-           },
-            {
-                "name": "領地の奪取",
-                "path": "/guide/take",
-                "markdown": "/playguide-markdown/take.md",
-                "isHidden": false
-           },
-            {
-                "name": "ロールバック",
-                "path": "/guide/rollback",
-                "markdown": "/playguide-markdown/rollback.md",
-                "isHidden": false
-            },
-            {
-                "name": "賠償金",
-                "path": "/guide/reparations",
-                "markdown": "/playguide-markdown/compensation.md",
+                "name": "終戦後の流れ",
+                "path": "/guide/afterwar",
+                "markdown": "/playguide-markdown/afterwar.md",
                 "isHidden": false
             }
         ]
@@ -150,9 +114,9 @@
         "isContent": false,
         "contents": [
             {
-                "name": "有償ランク",
-                "path": "/guide/rank",
-                "markdown": "/playguide-markdown/rank.md",
+                "name": "プレミアム",
+                "path": "/guide/premium",
+                "markdown": "/playguide-markdown/premium.md",
                 "isHidden": false
             },
             {
