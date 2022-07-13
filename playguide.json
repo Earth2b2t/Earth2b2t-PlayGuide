@@ -114,12 +114,6 @@
                 "isHidden": false
             },
             {
-                "name": "コマンド",
-                "path": "/guide/command",
-                "markdown": "/playguide-markdown/command.md",
-                "isHidden": false
-            },
-            {
                 "name": "世界マップ",
                 "path": "/guide/dynmap",
                 "markdown": "/playguide-markdown/dynmap.md",
