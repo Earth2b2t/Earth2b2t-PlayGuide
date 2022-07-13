@@ -78,12 +78,6 @@
                 "isHidden": false
             },
             {
-                "name": "国家に所属する",
-                "path": "/guide/joinnation",
-                "markdown": "/playguide-markdown/joinnation.md",
-                "isHidden": false
-            },
-            {
                 "name": "建築を保護する",
                 "path": "/guide/protection",
                 "markdown": "/playguide-markdown/protection.md",
