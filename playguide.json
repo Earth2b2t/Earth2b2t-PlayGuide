@@ -74,7 +74,7 @@
             {
                 "name": "建築の保護と販売",
                 "path": "/guide/architecture",
-                "markdown": "/playguide-markdown/architecture.md",
+                "markdown": "/playguide-markdown/protect.md",
                 "isHidden": false
             }
         ]
