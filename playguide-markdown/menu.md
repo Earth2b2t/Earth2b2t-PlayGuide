@@ -5,3 +5,5 @@
 #### 表示方法
 ゲーム内のチャット欄で /menu を実行すると表示される。
 その他にはコンパスを右クリックすることで、瞬時に表示することもできる。
+
+![image](https://user-images.githubusercontent.com/80201746/178725315-2b052bb9-911f-4c9d-abbb-65dfc0a62915.png)
