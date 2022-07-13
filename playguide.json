@@ -52,12 +52,6 @@
                 "path": "/guide/chestshop",
                 "markdown": "/playguide-markdown/chestshop.md",
                 "isHidden": false
-            },
-            {
-                "name": "コンバットログ",
-                "path": "/guide/combatlog",
-                "markdown": "/playguide-markdown/combatlog.md",
-                "isHidden": false
             }
         ]
     },
