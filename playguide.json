@@ -73,8 +73,8 @@
             },
             {
                 "name": "建築の保護と販売",
-                "path": "/guide/protection",
-                "markdown": "/playguide-markdown/protection.md",
+                "path": "/guide/buildprotect",
+                "markdown": "/playguide-markdown/buildprotect.md",
                 "isHidden": false
             }
         ]
