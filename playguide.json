@@ -70,6 +70,12 @@
                 "path": "/guide/development",
                 "markdown": "/playguide-markdown/development.md",
                 "isHidden": false
+            },
+            {
+                "name": "建築の保護と販売",
+                "path": "/guide/protect",
+                "markdown": "/playguide-markdown/protect.md",
+                "isHidden": false
             }
         ]
     },
