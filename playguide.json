@@ -111,7 +111,7 @@
                 "name": "プレミアム",
                 "path": "/guide/premium",
                 "markdown": "/playguide-markdown/premium.md",
-                "isHidden": false
+                "isHidden": true
             },
             {
                 "name": "世界マップ",
