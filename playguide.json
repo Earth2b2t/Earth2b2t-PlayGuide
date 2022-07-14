@@ -118,6 +118,12 @@
                 "path": "/guide/dynmap",
                 "markdown": "/playguide-markdown/dynmap.md",
                 "isHidden": false
+            },
+            {
+                "name": "言語設定",
+                "path": "/guide/language",
+                "markdown": "/playguide-markdown/language.md",
+                "isHidden": false
             }
         ]
     }
