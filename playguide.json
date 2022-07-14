@@ -97,8 +97,8 @@
            },
             {
                 "name": "終戦後の流れ",
-                "path": "/guide/after",
-                "markdown": "/playguide-markdown/after.md",
+                "path": "/guide/afterwar",
+                "markdown": "/playguide-markdown/afterwar.md",
                 "isHidden": false
             }
         ]
