@@ -1,91 +1,90 @@
-# コマンド  
+# Commands  
 
-メニュー画面を開く  
+Open a menu
 ```
 /menu
 ```
 
-建国する 
+Found a nation.
 ```
 /nation new <国名>
 ```
 
-プレイヤーを国に招待する  
+Invite player to nation.  
 ```
 /nation invite <名前>
 ```
 
-招待に応じる  
+Accept invite.
 ```
 /nation accept <名前>
 ```
 
-招待を拒否  
+Decline invite
 ```
 /nation deny <名前>
 ```
 
-プレイヤーを昇格  
+Promote player.  
 ```
 /nation promote <名前>
 ```
 
-プレイヤーを降格  
+Demote player.
 ```
 /nation demote <名前>
 ```
-
-所属している国家の情報を表示  
+Show infomartion about the nation of Belonging
 ```
 /nation info
 ```
 
-国家から脱退する  
+leave the nation.
 ```
 /nation leave
 ```
 
-国民を国から追放する  
+Kick citizen from nation
 ```
 /nation kick
 ```
 
-所持しているSCを国庫に納金する  
+Deposit the SC to the national treasury  
 ```
 /nation deposit <数値>
 ```
 
-領地を拡大する  
+Expand the country.
 ```
 /nation claim
 ```
 
-領地を手放す  
+Relinquish nation. 
 ```
 /nation disclaim
 ```
 
-領地をリセットする  
+Reset nation.  
 ```
 /nation reset
 ```
 
-戦争を開始  
+Start the war.
 ```
 /nation war <国王の名前>
 ```
 
-補償金を支払う  
+Pay compensation.
 ```
 /nation pay <数値>
 ```
 
-戦争に降伏する  
+Surrender to war.
 ```
 /nation surrender
 ```
 
-確認中のコマンドを実行する  
+Execute the command being checked.
 ```
 /nation confirm
 ```
