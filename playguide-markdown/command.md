@@ -7,32 +7,32 @@ Open a menu
 
 Found a nation.
 ```
-/nation new <国名>
+/nation new <name>
 ```
 
 Invite player to nation.  
 ```
-/nation invite <名前>
+/nation invite <name>
 ```
 
 Accept invite.
 ```
-/nation accept <名前>
+/nation accept <name>
 ```
 
 Decline invite
 ```
-/nation deny <名前>
+/nation deny <name>
 ```
 
 Promote player.  
 ```
-/nation promote <名前>
+/nation promote <name>
 ```
 
 Demote player.
 ```
-/nation demote <名前>
+/nation demote <name>
 ```
 Show infomartion about the nation of Belonging
 ```
@@ -51,7 +51,7 @@ Kick citizen from nation
 
 Deposit the SC to the national treasury  
 ```
-/nation deposit <数値>
+/nation deposit <value>
 ```
 
 Expand the country.
@@ -71,12 +71,12 @@ Reset nation.
 
 Start the war.
 ```
-/nation war <国王の名前>
+/nation war <name of king>
 ```
 
 Pay compensation.
 ```
-/nation pay <数値>
+/nation pay <value>
 ```
 
 Surrender to war.
