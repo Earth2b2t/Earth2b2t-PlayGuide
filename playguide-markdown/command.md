@@ -84,7 +84,7 @@ Surrender to war.
 /nation surrender
 ```
 
-Execute the command being checked.
+Confirm the command and execute.
 ```
 /nation confirm
 ```
