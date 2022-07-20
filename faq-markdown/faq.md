@@ -1,32 +1,32 @@
-# よくある質問 (FAQ)
-#### サーバーには参加可能ですか？
->A. 現在サーバーは開発中となっている為参加できません。今年夏頃には公開を予定しております。
+# Frequently Asked Questions (FAQ)
+#### Is the server available to join?
+>A. The server is currently under development, so you would not be able to join. We plan to open it to the public around this summer.
 
-#### 統合版でも参加できますか？
->A. 統合版には対応しておりません。Java版でのみ参加可能です。
+#### Can I participate in the Bedrock version?
+>A. Bedrock is not supported. You can only participate in the Java version.
 
-#### 参加できるバージョンはいくつですか？
->A. バージョン1.12.2のみでの参加が可能です。
+#### Witch is versions can I participate?
+>A. Only version 1.12.2 is allowed.
 
-#### チートクライアントを使用してもいいですか？
->A. modや改造は自由です。報告も必要ありません。  
+#### Can I use a hack client?
+>A. Its is free to using hacked client and mods. No reporting required.    
 
-#### トーテムやクリスタルが弱体化しているのは仕様ですか？
->A. 仕様です。増殖バグによってプレイヤー同士の強さが離れすぎないように調整しています。
+#### Is it a spec that totems and crystals aren't strong?
+>A. It is specifications. We adjusted the proliferation bug makes strength disparities problem.
 
-#### バグを利用したアイテム増殖を行ってもいいですか？
->A. OKです。バグの対策や増殖されたアイテムの削除は行いません。
+#### Cay we use the bug to proliferate items?
+>A. It is okay. No bugs will be addressed or proliferated items will be removed.
 
-#### YoutubeやTwitter等で動画、画像を投稿してもいいですか？
->A. プレイ画像・動画については投稿が可能です。また投稿の際には #Earth2b2t を使って頂けると幸いです。
+#### Can I post videos and images on Youtube, Twitter, etc.?
+>A. You can post images and videos of your play. We would also appreciate it if you could use #Earth2b2t when posting.
 
-#### サーバーに寄付をしたい。
->A. ウェブサイト上部にあるPremiumから可能です。
+#### I'd like to make a donation.
+>A. You can do it from the Premium tab at the top of the website.
 
-#### プラグインの不具合を発見した。
->A. 下記記載のEarth2b2t公式Discordサーバーにてご報告ください。
->　運営スタッフが個別に対応致します。
+#### I found a problem with the plugin.
+>A. Please report it on the Earth2b2t official Discord server listed below.
+> Operation staff will respond to you individually.
 
-### 問題が解決しない場合は[こちら](https://discord.com/invite/BAbRphhAgt )
->Discordサーバー内の#open-ticketからスタッフに直接問い合わせる事ができます。  
->問題が解決出来なかった場合の最終手段としてご活用ください。
+### If the problem persists, [Click Here](https://discord.com/invite/BAbRphhAgt )
+>You can contact our staff directly through #open-ticket in the Discord server.  
+>If you are unable to resolve the issue, please use this as a last resort.
