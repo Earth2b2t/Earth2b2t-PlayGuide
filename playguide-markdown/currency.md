@@ -1,10 +1,10 @@
-# クレジット
-## ソーシャルクレジット(SC)
-ソーシャルクレジットはEarth2b2tにおける通貨であり、主にアイテムの売買や土地の売買などプレイヤー間の取引に使用します。現在所持しているSCは[**メインメニュー**](/guide/menu)や画面右側のスコアボードから確認できます。
+# Credit
+## Social Credit(SC)
+Social Credits are the currency in Earth2b2t and are mainly used for transactions between players, such as buying and selling items or land. You can check the SC you currently have from the [**main menu**](/guide/menu) or from the scoreboard on the right side of the screen.
 
-### 入手方法
-#### [**デイリークエスト**](/guide/dailyquest)
-毎日更新されるクエストを達成することでSCを入手できます。1日に更新されるクエストの数は3つまで。
+### How to get
+#### [**Daily Quest**](/guide/dailyquest)
+You can get SC by completing the quests that are updated daily. Up to 3 quests can be updated daily. 
 
 #### [**アドベンチャーチェスト**](/guide/adventurechest)
 自然生成されるチェストを開くことでSCを入手できます。チェストはネザーにのみ生成されます。
