@@ -1,16 +1,14 @@
-# チェストショップ
-チェストと金ブロックを使用することで、場所を問わずに自由にアイテムを販売できます。
+# Chest Shop 
+Chests and gold blocks allow you to sell items at will, regardless of location.
 
-#### ショップの設置方法
-チェストを設置後、チェストの上に金ブロックを設置することでチェストショップになります。金ブロックを右クリックするとショップ専用のメニュー画面が開きます。メニュー上からアイテムの販売単位と販売単位における値段を設定できます。空いているスペースに販売したいアイテムを入れて右上の販売情報から有効状態を有効に設定するとショップが完成します。ショップの設置後も値段の変更は可能です。販売した分の[**SC**](/guide/currency)はショップを設置したプレイヤーに即時加算されます。
-
+#### Set up a store
+After setting up the chest, place a gold block on top of the chest to turn it into a chest store. Right-click on the gold block to open the store's menu. From the menu, you can set the unit of sale and the price for each unit of sale. The store is completed when the item to be sold is placed in the available space and its availability is enabled in the sales information menu in the upper right-hand corner. The price can be changed even after the store is set up. The [**SC**](/guide/currency) of the sold items will be credited to the player who set up the store immediately.
 ![image](https://user-images.githubusercontent.com/80201746/178739117-1e7879aa-bac3-4bd1-ae63-b406d1cf82b5.png)
 
 
-#### ショップの保護
-ショップには保護がありません。その為、土地の保護機能や国家の保護を利用して保護する必要があります。国家外で設置を行うとチェストが破壊できてしまう為、ショップとして機能しなくなります。ショップを作る際は保護されている土地に設置を行った方が良いかもしれません。
+#### Store Protection
+The store has no protection. Therefore, they must be protected using land protection or state protection. If the store is set up outside of the state, the chest can be destroyed and the store will not function. When building a store, it may be better to set it up on protected land.
 
-#### ショップからアイテムを購入する
-販売されているショップの金ブロックを右クリック後、表示されたメニュー上から購入個数を選択してアイテムを購入できます。購入には[**SC**](/guide/currency)が必要となるので、足りない場合は集めに行きましょう。　　
-
+#### Purchase items from the store
+After right-clicking on a gold block in the store where it is sold, you can select the number of items to purchase from the menu that appears. [**SC**](/guide/currency) is required to purchase items, so if you don't have enough, go collect them.　
 ![image](https://user-images.githubusercontent.com/80201746/178738964-58896f9a-fe39-485a-80f6-7f68ddb645e4.png)
