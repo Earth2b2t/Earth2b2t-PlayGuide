@@ -1,17 +1,20 @@
-# 終戦後の流れ
+# Post-war flow
 
-#### ブロックのロールバック
+#### Rollback of Blocks
 
-戦争が終了すると、戦争中に破壊されたブロックや設置されたブロックが領地内のみロールバックされます。戦争によって建築が破壊されたり物資が消滅することはありません。
+When the war ends, blocks destroyed or installed during the war are rolled back only within the territory. No buildings are destroyed or supplies disappear as a result of the war.
 
-#### 領地の奪取
+#### Seizure of territory
 
-戦争で勝利すると、国家の領地と面していた敵国家の領地を奪う事ができます。また、[**ネクサス**](/guide/nation)のある領地を奪取した場合、奪取された敵国家は滅亡します。[**ネクサス**](/guide/nation)の奪取によって敵国家を滅亡させた場合、敵国家の所有していた[**NC**](/guide/development)を全額奪います。
+If you win a war, you can take an enemy state's territory that was facing your state's territory. Also if a certain territory in [**Nexus**](/guide/nation) is seized, the seized enemy state is destroyed. If an enemy state is destroyed by the taking of [**Nexus**](/guide/nation), the full amount of [**NC**](/guide/development) owned by the enemy state is taken.
 
-#### 敗北時の賠償金
+#### indemnities
 
-戦争に敗北すると、領地の奪取とは別に賠償金が発生します。賠償金は国の強さやオンラインプレイヤーの人数差から算出され、プレイヤー差で不利だった場合は少なく、有利だった場合は額が大きくなります。請求される賠償金は国家の[**NC**](/guide/development)から自動で引き落とされます。国家に[**NC**](/guide/development)が不足している場合は領地をNCに変換して支払いを行います。領地を含めてもNCが足りなかった場合は国家が滅亡します。[**NC**](/guide/development)が足りずに国家が滅亡した場合は、全ての[**NC**](/guide/development)が勝利した国家のものとなります。また、支払った賠償金は勝利した国家のものとなります。
+When a country loses a war, it incurs reparations in addition to the taking of territory. The reparations are calculated based on the strength of the country and the number of online players, with smaller amounts for disadvantageous player differences and larger amounts for advantageous ones. The claimed compensation is automatically deducted from the state's [**NC**](/guide/development). If the state is short of [**NC**](/guide/development), the territory is converted to [**NC**](/guide/development) for payment. If the nation does not have enough [**NC**](/guide/development), including territories, the nation will be destroyed; if the nation is destroyed due to lack of [**NC**](/guide/development), all [**NC**](/guide/development) will belong to the victorious nation. Also, any reparations paid will belong to the victorious state.
 
-#### 猶予期間
+#### Grace period
 
-戦争に勝利すると猶予期間が発生します。猶予期間は7日となっており、期間中は敗北した国家への[**宣戦布告**](/guide/war)が行えなくなります。その他の国家に対しては通常通り[**宣戦布告**](/guide/war)が可能です。また、猶予期間中に敗北した国家から[**宣戦布告**](/guide/war)された場合は猶予期間が消滅します。
+Winning a war triggers a [**grace period**](/guide/war). The [**grace period**](/guide/war) is 7 days, during which time it is no longer possible to declare war on the defeated nation. For other nations, war can be declared as usual. If the defeated nation declares war during the [**grace period**](/guide/war), the [**grace period**](/guide/war) will expire.
+
+
+[**declaration of war**](/guide/war)
