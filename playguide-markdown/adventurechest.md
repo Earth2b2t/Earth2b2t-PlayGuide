@@ -1,12 +1,12 @@
-# アドベンチャーチェスト
-アドベンチャーチェストは開くことで通貨を入手できるチェストです。時間に縛られずに通貨を入手できる唯一の方法でもあります。  
+# Advanture Chest
 
-#### 入手できる通貨
+Adventure chests are chests that can be opened to obtain currency. It is also the only way to obtain currency without being tied to time.
 
-アドベンチャーチェストを開くことでSCとNCを合わせて入手できます。極稀に大量の通貨が入っているかもしれません。
+#### Available Currency
 
-#### 生成場所  
+SC and NC can be obtained together by opening the Adventure Chest. It may contain a large amount of currency in extremely rare cases. 
 
-ネザーにのみ生成され、X座標とZ座標が0に近くなるほどたくさんのチェストが生成されます。チェストは再生成されるので、集め終わってしまう心配はありません。　　
+#### Generation Location
 
+They are generated only in the nether, The amount of generation increases as the X and Y coordinates approach 0. Chests are regenerated, so there is no need to worry about finishing the collection.　　
 ![image](https://user-images.githubusercontent.com/80201746/178736912-d2edde5d-04ae-4358-a07e-1a5b0e231518.png)
