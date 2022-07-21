@@ -1,30 +1,34 @@
-# 国家を発展させる
-国家を発展させて、世界中をあなたの国で統一しましょう。ここで紹介する機能は主に国王・大臣向けの機能となります。
+# Develop a Nation
+Develop your nation and unite the world with your country. The functions described here are mainly for kings and ministers.
 
-#### 国民を増やす
+#### Adding More Citizens
 
-国家に国民を増やすには、プレイヤーに国家への招待を送る必要があります。招待は```/n invite <mcid>```で送信できます。招待が受託されると、プレイヤーは国民となります。反対に```/n kick <mcid>```で国民を国から追放できます。たくさん国民を増やして強大な国家を築きましょう！
+To add more citizens to a nation, you need to send an invitation to the player to join your nation. Invitations can be sent using ```/n invite <mcid>``. If the invitation is accepted, the player becomes a citizen. Conversely, you can kick a citizen from a country with ```/n kick <mcid>``. Let's build a strong nation with many citizens!
 
 ![image](https://user-images.githubusercontent.com/80201746/178899079-124eb9bb-e5b5-499c-ba8d-94d22e910ad0.png)
 
-#### 役職の設定
+#### Setting up roles
 
-国家の役職にはそれぞれ、国王・大臣・市民の3種類が存在します。建国したプレイヤーが国王となり、国家に参加したプレイヤーは市民となります。国家の管理ができるのは国王と大臣のみとなっています。国王が```/n promote <mcid>```を行うと市民を大臣に昇格できます。反対に大臣に```/n demote <mcid>```を行うと市民に降格できます。また、大臣に対して国王が```/n promote <mcid>```を行うと国王を譲渡できます。
+There are three types of positions in a nation: King, Minister, and Citizen. The player who founded the nation becomes the king, and the player who joined the nation becomes a citizen. Only the king and ministers can manage the nation. The king can promote a citizen to the rank of minister by ```/n promote <mcid>``. Conversely, a ```/n demote <mcid>`` to a minister will demote him to citizen. Also, a ```/n promote <mcid>``` by the king to a minister can transfer the king.
 
-#### 領地の増やし方
-
-国家の領地を増やすには[**メインメニュー**](/guide/menu)、もしくは国王または大臣が国家と隣接している土地で```/n claim```を行う必要があります。実行すると、国家に入金されたNCから```100NC```が消費されます。国家のNCが足りない場合は[**デイリークエスト**](/guide/dailyquest)や[**アドベンチャーチェスト**](/guide/adventurechest)でNCを集めて入金する、もしくは国民にNCの入金を呼びかけましょう。反対に取得した領地で```/n disclaim```を実行すると領地が荒野に戻り、消費したNCが国家に戻ります。
+#### How to increase your territory
+ 
+To increase a nation's territory,　use [**Main menu**](/guide/menu) or the king or minister must make a ```/n claim`` on land adjacent to the nation.
+When performed, ``100 NC`` will be consumed from the NC credited to the state. If you do not have enough NCs for your nation, you can collect NCs by [**Daily quest**](/guide/dailyquest) or [**Adventure chest**](/guide/adventurechest) to deposit them, or encourage your people to deposit their NCs.
+Conversely, perform ```/n disclaim`` on an acquired territory will return to the wilderness and the NC consumed will be returned to the nation.
 
 ![border](https://user-images.githubusercontent.com/80201746/178898527-df6e8e51-e327-491d-962b-3737ac219a8d.png)
 
-※国家の領地は画像のようにボーダーで表示される。外側から見ると橙色に変わる。
+※The territory of the state is indicated by a border as shown in the image. It changes to orange when viewed from the outside.
 
-#### 同盟の結び方
+#### How to make alliances
 
-国家間の同盟は```/n ally invite <国のID>```で申請できます。相手の国家に承認されると同盟となります。同盟となると、お互いの国家内でお互いの国民が保護されるようになります。ただし、同盟国が戦争に敗北した際に賠償金の1割を負担しなくてはなりません。また、同盟国同士での[**戦争**](/guide/war)は行えません。同盟の破棄は```/n ally remove <国のID>```で行えます。
+You can apply for an alliance between nations with ```/n ally invite <nation ID>``. If the other nation approves the application, it becomes an alliance. Once an alliance is formed, each nation's citizens are protected within each other's nation. However, when an ally loses a war, it must bear 10% of the reparations. Also, allies cannot engage in [**war**](/guide/war) with each other. Alliances can be broken by ```/n ally remove <nation ID>``.
+
 
 ![image](https://user-images.githubusercontent.com/80201746/178898723-e4c16774-bc84-43b6-a3ab-205b2c25960f.png)
 
-#### リスポーン位置を変更する
+#### リChanging the respawn position
 
-国家のリスポーン位置は[**戦争中**](/guide/war)の初期リスポーン地点になります。また、国家のテレポート地点としても機能します。国家のリスポーン地点はは初期状態だと[**ネクサス**](/guide/nation)の位置になっています。[**メインメニュー**](/guide/menu)から自由な位置に変更が可能です。
+The respawn position of a nation is the initial respawn point in [**WAR**](/guide/war). It also serves as the teleportation point for the nation. The nation's respawn location is initially the [**nexus**](/guide/nation) location. It can be changed to any location from the [**main menu**](/guide/menu).
+
