@@ -1,28 +1,28 @@
-# 国家の作り方
-最強の国家を作り世界を統一しましょう。
+# How to Create a Nation
+Create the strongest nation and unify the world.
 
-#### 国家の名前を決める  
+#### Decide the name of your nation 
 
-国家の名前は建国したプレイヤーが自由に決めることができ、設定した名前は[**世界マップ**](/guide/dynmap)や[**戦争**](/guide/war)などで表示されます。名前に制限はないので、貴方だけのオリジナルの国家を作りましょう。決定した名前の変更は有料となるので、慎重に決定しましょう。
+The name of the nation can be decided by the player who created the nation, and the name will be displayed on the [**world map**](/guide/dynmap) and [**war**](/guide/war). There are no limit on names, so create your own original nation. You will be charged to change the name of your nation, so please decide carefully.
 
-#### 建国する
+#### Founding a Nation
 
-メインメニュー、またはチャット欄で```/n new <国の名前>```の実行で建国できます。建国には```1000SC```が必要となります。足りない場合は[**デイリークエスト**](/guide/dailyquest)等でSCを集めましょう。
+You can found a nation by main menu or using ```/n new <name of country>``` in the chat box. You will need ```1000SC``` to found a country. If you don't have enough, you can collect SC by [**Daily Quest**](/guide/dailyquest) etc.
 
 ![image](https://user-images.githubusercontent.com/80201746/178899605-c54bc14f-3916-456d-8ee9-74458e34a8a2.png)
 
-#### ネクサスとは
+#### Nexus
 
-国家が作られると、建国を行ったチャンクの中央に発光したエンドストーンが生成されます。このエンドストーンがネクサスです。破壊することは出来ません。ネクサスは[**戦争**](/guide/war)を行う際に国家の核として使用します。
+When a nation is created, a luminous endstone is generated in the center of the chunk where the nation was founded. This endstone is the nexus. It cannot be destroyed. The nexus is used as the nucleus of the nation when [**war**](/guide/war) is conducted.
 
 ![2022-07-13_23 39 01](https://user-images.githubusercontent.com/80201746/178761056-4dbe1a50-c91a-4738-8285-b782b95354fd.png)
 
-※画像は国家を作った際に自動生成されたネクサス。y80付近に生成される。
+※The image shows the nexus that was automatically generated when the state was created. y80 is generated around y80.
 
-#### 領地の保護
+#### Protection of territory
 
-建国後、国家の領地は保護されます。国家の領地内にいる国民は、その国家に所属していないプレイヤーからの攻撃を受けません。その他にも国家に所属していないプレイカーからの領地内へのブロックの設置・破壊を防ぎます。
+After a nation is established, its territory is protected. Nationals within a nation's territory are immune from attack by players who do not belong to that nation. It also prevents other players who do not belong to the state from setting up or destroying blocks in the territory.
 
-#### 国家へのテレポート
+#### Teleportation to a Nation
 
-国家に所属していると、[**SC**](/guide/currency)を消費して所属している国家へテレポートができます。チャット欄で```/n spawn```を行う事でテレポートが始まります。使用するたびに```1000SC```を消費する為、計画的に使用しましょう。また、実行後数秒間動かずに静止している必要があります。
+If you are a member of a nation, you can teleport to the nation by spending [**SC**](/guide/currency). Teleportation is initiated by doing ```/n spawn``` in the chat box. Each time you use it, you will spend ```1000SC```, so please use it systematically. Also, you must remain still for a few seconds after the teleportation.
