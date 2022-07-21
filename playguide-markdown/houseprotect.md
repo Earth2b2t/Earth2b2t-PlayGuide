@@ -3,7 +3,7 @@ Protect the architecture in your country and protect it from other citizens. Sel
 
 #### Protecting Architecture
 
-Players who belong to a nation can protect the architecture of their nation. To do so, left-click or right-click on the desired area with the wooden stick and select [**main menu**](/*guide/menu) or ```/n protect claim``` to complete the protection. Since it costs ``4SC`` per block to protect, if you don't have enough SC, you can use [**daily quest**](/guide/dailyquest), [**adventure chest**](/guide/adventurechest), [**chest store **](/guide/chestshop) to collect [**SC**](/guide/currency). Once protected, it prevents other citizens from destroying and installing blocks. The protected land can be restored by executing ```/n protect purge```. The [**SC**](/guide/currency) consumed in that case will not be returned.
+Players who belong to a nation can protect the architecture of their nation. To do so, left-click or right-click on the desired area with the wooden stick and select [**main menu**](/*guide/menu) or ```/n protect claim``` to complete the protection. Since it costs ``4SC`` per block to protect, if you don't have enough SC, you can use [**daily quest**](/guide/dailyquest), [**adventure chest**](/guide/adventurechest), [**chest store**](/guide/chestshop) to collect [**SC**](/guide/currency). Once protected, it prevents other citizens from destroying and installing blocks. The protected land can be restored by executing ```/n protect purge```. The [**SC**](/guide/currency) consumed in that case will not be returned.
 
 
 #### Selling Architecture
