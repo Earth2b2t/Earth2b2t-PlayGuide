@@ -6,41 +6,44 @@ Social Credits are the currency in Earth2b2t and are mainly used for transaction
 #### [**Daily Quest**](/guide/dailyquest)
 You can get SC by completing the quests that are updated daily. Up to 3 quests can be updated daily. 
 
-#### [**アドベンチャーチェスト**](/guide/adventurechest)
-自然生成されるチェストを開くことでSCを入手できます。チェストはネザーにのみ生成されます。
+#### [**Adventure chest**](/guide/adventurechest)
+SC can be obtained by opening naturally generated chests. Chests are only generated in the nether.
 
-#### [**アイテムを販売する**](/guide/chestshop)
-ショップで販売したアイテムが購入されるとSCを入手できます。販売金額は自分で設定できます。
+#### [**Sell items**](/guide/chestshop)
+You can get SC when an item you sell in the store is purchased. You can set your own sales price.
 
-#### [**建築を販売する**](/guide/protect)
-販売していた建築が購入されるとSCを入手できます。
+#### [**Sell Architecture**](/guide/protect)
+You can get SC when an architecture is purchased.
 
-### 使用用途
-#### [**建国する**](/guide/nation)
-一定のSCを消費することで建国できます。既に国に所属しているプレイヤーは建国できません。
+### Usage
+#### [**Build a nation**](/guide/nation)
+A nation can be founded by spending a certain amount of SC. Players who already belong to a nation cannot establish a nation.
 
-#### [**建築を保護する**](/guide/houseprotect)
-SCを消費して国家に作った建築物を他の国民から保護しましょう。保護した建築物は他のプレイヤーに販売できます。
+#### [**Protect Architecture**](/guide/houseprotect)
+Protect the buildings you have built in your nation by spending SC. Protected buildings can be sold to other players.
 
-#### [**アイテムを購入する**](/guide/chestshop)
-ショップで販売されているアイテムを購入するにはSCが必要となります。
+#### [**Buy items**](/guide/chestshop)
+SC is required to purchase items.
 
-## ネイションクレジット(NC)
-ネイションクレジットは、主に国家の領地を増やす際に使用する通貨です。SCとは異なり、プレイヤーをキルすることで相手が所持しているNCを奪うことができます。現在所持しているNCは[**メインメニュー**](/guide/menu)や画面右側のスコアボードから確認できます。  
+## Nation Credit(NC)
+Nation Credits are a currency used mainly to increase a nation's territory. unlike SC, killing an enemy allows you to steal their NC. You can check the NCs on the [**Main Menu**](/guide/menu) or on the scoreboard on the right side of the screen.  
 
-### 入手方法
-#### [**デイリークエスト**](/guide/dailyquest)
-毎日更新されるクエストを全て達成することでNCを入手できます。1日に1回のみ入手できます。
 
-#### [**アドベンチャーチェスト**](/guide/adventurechest)
-自然生成されるチェストを開くことでNCを入手できます。チェストはネザーにのみ生成されます。
+### How to get
+#### [**Daily Quest**](/guide/dailyquest)
+You can get NC by completing all the quests that are updated daily. you can get it only once a day. 
 
-#### [**戦争に勝つ**](/guide/war)
-戦争で他国家からNCを奪いましょう。勝利すると[**賠償金**](/guide/afterwar)としてNCが入手できます。
+#### [**Adventure Chest**](/guide/adventurechest)
+You can get NCs by opening naturally generated chests. Chests are only generated in the Nether.
 
-### 使用用途
-#### [**国家を支援する**](/guide/development) 
+#### [**Win a war**](/guide/war)
+Steal NC from other nations in a war. If you win, you can get NC as [**reparations**](/guide/afterwar).
+
+### Usage
+#### [**Assist a Nation**](/guide/development) 
 NCは国家の役職に関わらず所属している国家に入金できます。入金は所属している国家の領地内で```/n deposit <金額>```で行えます。取得したら忘れずに入金を行いましょう。
+NCs can be deposited into the nation to which you belong, regardless of your national position. Deposits can be made in the territory of the nation you belong to with ``/n deposit <amount>``. Don't forget to make your deposit once you have obtained it.
 
-#### [**領地を増やす**](/guide/development) 
-入金されたNCを消費して領地を増やしましょう。領地の拡張は国家の大臣と国王のみが可能です。
+#### [**Increase your territory**](/guide/development) 
+Spend the deposited NC to expand your territory. Only ministers and kings of a nation can expand their territories.
+
