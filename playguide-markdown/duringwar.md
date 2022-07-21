@@ -1,13 +1,13 @@
-# 終戦までの流れ
+# The End of the War
 
-#### 戦争に勝利するには
+#### How to win the war
 
-戦争に勝利するには敵国家の[**ネクサス**](/guide/nation)を破壊、もしくは戦争の制限時間が終了した際に[**ネクサス**](/guide/nation)の残りHPが高い国家が勝利となります。時間内に先に[**ネクサス**](/guide/nation)を破壊した国家の勝利となる為国家の総力が問われます。
+To win the war, either destroy the enemy nation's [**Nexus**](/guide/nation), or when the war time limit ends, the nation with the highest remaining HP in the [**Nexus**](/guide/nation) will win the war. The nation that destroys [**Nexus**](/guide/nation) first within the time limit will win the game, so the total power of the nation will be tested.
 
-#### 降参する
+#### Surrender
 
-戦争を途中でやめる場合は降参ができます。国家の国王・または大臣が```/n surrender```を実行するとその時点で敗北となります。降参を行った場合も通常の敗北と同じ扱いとなります。
+If you want to stop the war in the middle of the war, you can surrender. If the king or a minister of a nation performs a ``/n surrender``, the nation is defeated at that moment. A surrender is treated the same as a normal defeat.
 
-#### 戦争中の特殊効果
+#### Special effects during war
 
-戦争中は[**領地の保護**](/guide/nation)が消滅します。国家外のプレイヤーからの攻撃やブロックの破壊・設置が行えるようになります。逆に領地内の動物などのモブやエンティティは保護されます。保護されたモブやエンティティは無敵状態となり戦争中に倒されてしまう心配はありません。また、戦争中は領地内のブロックの設置、破壊によってアイテムドロップが起こらなくなります。その他に戦争中は常時エリトラの使用が一部制限されます。
+During war, [**Protection of territory**](/guide/nation) will disappear. It becomes possible for players outside the nation to attack, destroy or install blocks. Conversely, mobs and entities such as animals in the territory will be protected. Protected mobs and entities become invincible and cannot be defeated during the war. Also, during the war, item drops will not occur due to the installation or destruction of blocks in the territory. In addition, the use of elytra will be partially restricted at all times during the war.
