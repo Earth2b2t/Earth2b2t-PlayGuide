@@ -1,14 +1,17 @@
-# 建築の保護と販売
-国家内の建築を保護して他の国民から守りましょう。保護した建築を販売して[**SC**](/guide/currency)を稼ぎ億万長者になりましょう。
+# Protect and sell architecture
+Protect the architecture in your country and protect it from other citizens. Sell your protected buildings and earn [**SC**](/guide/currency) and become a millionaire.
 
-#### 建築の保護
+#### Protecting Architecture
 
-国家に所属しているプレイヤーは、所属している国家の建築を保護できます。保護を行うには指定したい範囲を木の棒を使い左クリックと右クリックを行い[**メインメニュー**](/guide/menu)、もしくは```/n protect claim```を実行すると保護が完了します。保護を行うには1ブロック辺り```4SC```を消費する為、SCが足りない場合は[**デイリークエスト**](/guide/dailyquest)や[**アドベンチャーチェスト**](/guide/adventurechest)・[**チェストショップ**](/guide/chestshop)などで[**SC**](/guide/currency)を集めましょう。保護が完了すると、他の国民からのブロックの破壊と設置を防ぎます。保護した土地は```/n protect purge```を実行する事で元に戻すことも可能です。その際消費した[**SC**](/guide/currency)は戻りません。
+Players who belong to a nation can protect the architecture of their nation. To do so, left-click or right-click on the desired area with the wooden stick and select [**main menu**](/*guide/menu) or ```/n protect claim``` to complete the protection. Since it costs ``4SC`` per block to protect, if you don't have enough SC, you can use [**daily quest**](/guide/dailyquest), [**adventure chest**](/guide/adventurechest), [**chest store **](/guide/chestshop) to collect [**SC**](/guide/currency). Once protected, it prevents other citizens from destroying and installing blocks. The protected land can be restored by executing ```/n protect purge``. The [**SC**](/guide/currency) consumed in that case will not be returned.
 
-#### 建築の販売
 
-保護を行った建築は土地の中から[**メインメニュー**](/guide/menu)または```/n protect sell <金額>```を行う事で販売できます。販売した土地が購入されると指定した金額の[**SC**](/guide/currency)が建築を販売したプレイヤーに即時加算されます。販売した土地は```/n protect deport```で販売を終了できます。
+#### Selling Architecture
 
-#### 建築の購入
+Protected buildings can be sold from the land by selecting [**Main Menu**](/guide/menu) or ```/n protect sell <amount>``. When the sold land is purchased, the player who sold the building will receive the specified amount of [**SC**](/guide/currency) immediately. You can end the sale with ```/n protect deport``.
 
-販売されている建築は指定の[**SC**](/guide/currency)を支払う事で購入できます。購入は建築の中から```/n protect buy```を実行する事で可能です。建築の購入を維持するには2ヶ月事の更新が必要となり、期間内に建築の中から```/n protect continue```を実行する必要があります。更新の際には規定の[**SC**](/guide/currency)が毎回消費されます。また建築を購入すると建築のある国へ```1000SC```を支払う事でテレポートする事が可能となります。テレポートは[**メインメニュー**](/guide/menu)から可能です。注意点として購入した建築が[**戦争**](/guide/war)などによって奪われてしまった場合は返金されません。安全な建築を購入しましょう。
+
+#### Buying Buildings
+
+You can purchase buildings for sale by paying the specified amount of [**SC**](/guide/currency). Purchases can be made by using ``/n protect buy`` from within an architecture. To maintain the purchase of a building, it must be renewed every two months and the ``/n protect continue`` must be executed within that time period from within the building. Each renewal will cost a certain amount of [**SC**](/guide/currency). Also, when you purchase a building, you can teleport to the country where the building is located by paying ``1000SC``. Teleportation is available from the [**main menu**](/guide/menu). Please note that you will not be refunded if your purchased buildings are stolen by [**war**](/guide/war) or any other reason. Please purchase safe buildings.
+
