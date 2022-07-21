@@ -1,14 +1,14 @@
-# 戦争の始め方
-戦争は他国に対して仕掛ける事ができます。他国の領地を奪う唯一の手段です。
+# How to Start a War
+War can be started against another country. It is the only way to take territory from another country.
 
-#### 戦争を始める前に
+#### Before starting a war
 
-戦争を始めるには、いくつかの前提条件を満たす必要があります。国家の領地がお互いに面していて、国家に敗戦時に支払える量のNCがあれば戦争を開始できます。以上の前提条件を満たしていない場合は、戦争を仕掛けることが出来ない点に注意してください。
+To start a war, several prerequisites must be met. You can start a war if the territories of the nations face each other and if the nations have enough NC to pay in the event of defeat. Note that if the above prerequisites are not met, you cannot start a war.
 
-#### 宣戦布告
+#### Declaration of War
 
-国王、または大臣が[**メインメニュー**](/guide/menu)、もしくは```/nation war <相手国のid>```を実行することで宣戦布告を行えます。宣戦布告を行うとその時点で```24時間```の準備期間が始まります。戦争は準備期間の終了後に自動的に開始します。戦争の開始時に相手の国家にプレイヤーがいなかった場合はその時点で勝利となります。お互いの国家にプレイヤーがいなかった場合は戦争は取り消されます。戦争が開始されると国民は国家へテレポートされます。
+A declaration of war can be made by the king or a minister by using the [**main menu**](/guide/menu) or ```/nation war <id of the other country>```. Once war is declared, a ```24-hour preparation period``` begins. War begins automatically at the end of the preparation period. If there are no players in the other nation at the beginning of the war, the war is won. If there are no players in either nation, the war is canceled. When the war starts, the people are teleported to their nations.
 
-#### 戦争開始後
+#### After the war starts
 
-宣戦布告から```24時間```が経過すると戦争が始まります。戦争が始まると、インベントリ上部に敵国の[**ネクサス**](/guide/nation)の位置が表示されスコアボードが戦争用に切り替わります。この変更は終戦するまで維持されます。
+War begins after ```24 hours``` from the declaration of war. When war begins, the location of the enemy's [**Nexus**](/guide/nation) is displayed at the top of the inventory and the scoreboard is switched to war. This change is maintained until the war is over.
