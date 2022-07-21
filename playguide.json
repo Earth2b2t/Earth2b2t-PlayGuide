@@ -1,54 +1,54 @@
 [
     {
-        "name": "ようこそ",
+        "name": "Welcome",
         "path": "/guide",
         "markdown": "/playguide-markdown/welcome.md",
         "isContent": true,
         "isHidden": false
     },
     {
-        "name": "よくある質問",
+        "name": "FAQ",
         "path": "/faq",
         "markdown": "/faq-markdown/faq.md",
         "isContent": true,
         "isHidden": false
     },
     {
-        "name": "基本システム",
+        "name": "Basic system",
         "isContent": false,
         "contents": [
             {
-                "name": "メインメニュー",
+                "name": "Main menu",
                 "path": "/guide/menu",
                 "markdown": "/playguide-markdown/menu.md",
                 "isHidden": false
             },
             {
-                "name": "ワールド",
+                "name": "World",
                 "path": "/guide/world",
                 "markdown": "/playguide-markdown/world.md",
                 "isHidden": false
             },
             {
-                "name": "クレジット",
+                "name": "Credit",
                 "path": "/guide/currency",
                 "markdown": "/playguide-markdown/currency.md",
                 "isHidden": false
             },
             {
-                "name": "デイリークエスト",
+                "name": "Daily quest",
                 "path": "/guide/dailyquest",
                 "markdown": "/playguide-markdown/dailyquest.md",
                 "isHidden": false
             },
             {
-                "name": "アドベンチャーチェスト",
+                "name": "Adventure chest",
                 "path": "/guide/adventurechest",
                 "markdown": "/playguide-markdown/adventurechest.md",
                 "isHidden": false
             },
             {
-                "name": "チェストショップ",
+                "name": "Chest shop",
                 "path": "/guide/chestshop",
                 "markdown": "/playguide-markdown/chestshop.md",
                 "isHidden": false
@@ -56,23 +56,23 @@
         ]
     },
     {
-        "name": "国家",
+        "name": "Nation",
         "isContent": false,
         "contents": [
             {
-                "name": "国家の作り方",
+                "name": "How to build a nation",
                 "path": "/guide/nation",
                 "markdown": "/playguide-markdown/nation.md",
                 "isHidden": false
             },
             {
-                "name": "国家を発展させる",
+                "name": "Developing the Nation",
                 "path": "/guide/development",
                 "markdown": "/playguide-markdown/development.md",
                 "isHidden": false
             },
             {
-                "name": "建築の保護と販売",
+                "name": "Architectural Protection and Sales",
                 "path": "/guide/houseprotect",
                 "markdown": "/playguide-markdown/houseprotect.md",
                 "isHidden": false
@@ -80,23 +80,23 @@
         ]
     },
     {
-        "name": "戦争",
+        "name": "War",
         "isContent": false,
         "contents": [
             {
-                "name": "戦争の始め方",
+                "name": "How to start a War",
                 "path": "/guide/war",
                 "markdown": "/playguide-markdown/war.md",
                 "isHidden": false
            },
             {
-                "name": "終戦までの流れ",
+                "name": "The end of the War",
                 "path": "/guide/duringwar",
                 "markdown": "/playguide-markdown/duringwar.md",
                 "isHidden": false
            },
             {
-                "name": "終戦後の流れ",
+                "name": "After War",
                 "path": "/guide/afterwar",
                 "markdown": "/playguide-markdown/afterwar.md",
                 "isHidden": false
@@ -104,23 +104,23 @@
         ]
     },
     {
-        "name": "その他",
+        "name": "Miscellaneous",
         "isContent": false,
         "contents": [
             {
-                "name": "プレミアム",
+                "name": "Premium",
                 "path": "/guide/premium",
                 "markdown": "/playguide-markdown/premium.md",
                 "isHidden": true
             },
             {
-                "name": "世界マップ",
+                "name": "World map",
                 "path": "/guide/dynmap",
                 "markdown": "/playguide-markdown/dynmap.md",
                 "isHidden": false
             },
             {
-                "name": "言語設定",
+                "name": "Language settings",
                 "path": "/guide/language",
                 "markdown": "/playguide-markdown/language.md",
                 "isHidden": false
