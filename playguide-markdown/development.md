@@ -9,12 +9,12 @@ To add more citizens to a nation, you need to send an invitation to the player t
 
 #### Setting up roles
 
-There are three types of positions in a nation: King, Minister, and Citizen. The player who founded the nation becomes the king, and the player who joined the nation becomes a citizen. Only the king and ministers can manage the nation. The king can promote a citizen to the rank of minister by ```/n promote <mcid>```. Conversely, a ```/n demote <mcid>`` to a minister will demote him to citizen. Also, a ```/n promote <mcid>``` by the king to a minister can transfer the king.
+There are three types of positions in a nation: King, Minister, and Citizen. The player who founded the nation becomes the king, and the player who joined the nation becomes a citizen. Only the king and ministers can manage the nation. The king can promote a citizen to the rank of minister by ```/n promote <mcid>```. Conversely, a ```/n demote <mcid>``` to a minister will demote him to citizen. Also, a ```/n promote <mcid>``` by the king to a minister can transfer the king.
 
 #### How to increase your territory
  
 To increase a nation's territory,　use [**Main menu**](/guide/menu) or the king or minister must make a ```/n claim``` on land adjacent to the nation.
-When performed, ``100 NC``` will be consumed from the NC credited to the state. If you do not have enough NCs for your nation, you can collect NCs by [**Daily quest**](/guide/dailyquest) or [**Adventure chest**](/guide/adventurechest) to deposit them, or encourage your people to deposit their NCs.
+When performed, ```100 NC``` will be consumed from the NC credited to the state. If you do not have enough NCs for your nation, you can collect NCs by [**Daily quest**](/guide/dailyquest) or [**Adventure chest**](/guide/adventurechest) to deposit them, or encourage your people to deposit their NCs.
 Conversely, perform ```/n disclaim``` on an acquired territory will return to the wilderness and the NC consumed will be returned to the nation.
 
 ![border](https://user-images.githubusercontent.com/80201746/178898527-df6e8e51-e327-491d-962b-3737ac219a8d.png)
