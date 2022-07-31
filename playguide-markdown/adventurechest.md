@@ -5,8 +5,10 @@
 
 アドベンチャーチェストを開くことでSCとNCを合わせて入手できます。極稀に大量の通貨が入っているかもしれません。
 
+![image](https://user-images.githubusercontent.com/80201746/182032450-3db34dd6-8997-41a6-a3ef-e1a2cb3c6de2.png)
+
 #### 生成場所  
 
 ネザーにのみ生成され、X座標とZ座標が0に近くなるほどたくさんのチェストが生成されます。チェストは再生成されるので、集め終わってしまう心配はありません。　　
 
-![image](https://user-images.githubusercontent.com/80201746/178736912-d2edde5d-04ae-4358-a07e-1a5b0e231518.png)
+![image](https://user-images.githubusercontent.com/80201746/182032492-abad3954-6a33-48e9-a59f-f4453262d680.png)
