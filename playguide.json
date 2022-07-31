@@ -109,8 +109,8 @@
         "contents": [
             {
                 "name": "プレミアム",
-                "path": "/guide/premium",
-                "markdown": "/playguide-markdown/premium.md",
+                "path": "/guide/premiumrank",
+                "markdown": "/playguide-markdown/premiumrank.md",
                 "isHidden": false
             },
             {
