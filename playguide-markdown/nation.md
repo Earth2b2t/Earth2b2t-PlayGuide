@@ -9,13 +9,13 @@
 
 メインメニュー、またはチャット欄で```/n new <国の名前>```の実行で建国できます。建国には```1000SC```が必要となります。足りない場合は[**デイリークエスト**](/guide/dailyquest)等でSCを集めましょう。
 
-![image](https://user-images.githubusercontent.com/80201746/180910270-502158ac-30f0-4c1a-a05d-4a4f53b05735.png)
+![image](https://user-images.githubusercontent.com/80201746/182031611-8d3e7688-2578-4423-a07d-83a11a62bd69.png)
 
-#### ネクサスとは
+#### ネクサス
 
 国家が作られると、建国を行ったチャンクの中央に発光したエンドストーンが生成されます。このエンドストーンがネクサスです。破壊することは出来ません。ネクサスは[**戦争**](/guide/war)を行う際に国家の核として使用します。
 
-![2022-07-13_23 39 01](https://user-images.githubusercontent.com/80201746/178761056-4dbe1a50-c91a-4738-8285-b782b95354fd.png)
+![image](https://user-images.githubusercontent.com/80201746/182031576-68ae2066-895d-452c-8efa-d295ff8af585.png)
 
 ※画像は国家を作った際に自動生成されたネクサス。y80付近に生成される。
 
@@ -23,7 +23,7 @@
 
 建国後、国家の領地は保護されます。国家の領地内にいる国民は、その国家に所属していないプレイヤーからの攻撃を受けません。その他にも国家に所属していないプレイカーからの領地内へのブロックの設置・破壊を防ぎます。
 
-![領地](https://user-images.githubusercontent.com/80201746/180910320-ddc33959-2a6b-4fff-9d6d-d935a527ca52.png)
+![image](https://user-images.githubusercontent.com/80201746/182031658-d5ffa21a-32b3-42c7-87ef-81814e7f3ca1.png)
 
 #### 国家へのテレポート
 
