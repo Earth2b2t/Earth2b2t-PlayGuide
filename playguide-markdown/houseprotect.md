@@ -5,7 +5,7 @@
 
 国家に所属しているプレイヤーは、所属している国家の土地を保護できます。保護を行うには```/n protect 1```と```/n protect 2```で範囲を指定した後、```/n protect claim <名前> ```を実行すると保護が完了します。1ブロックの保護でy軸は0から255まで保護される為、y軸の中で保護を分ける事はできません。保護を行うには1ブロック辺り```4SC```を消費する為、SCが足りない場合は[**デイリークエスト**](/guide/dailyquest)や[**アドベンチャーチェスト**](/guide/adventurechest)・[**チェストショップ**](/guide/chestshop)などで[**SC**](/guide/currency)を集めましょう。保護が完了すると、他の国民からのブロックの破壊と設置を防ぎます。保護した土地は```/n protect purge```を実行する事で元に戻すことも可能です。その際消費した[**SC**](/guide/currency)は戻りません。
 
-![image](https://user-images.githubusercontent.com/80201746/180911196-44508f48-2a29-4400-a126-f5ebb8181359.png)
+![image](https://user-images.githubusercontent.com/80201746/182019341-1c436e01-f277-4628-a1f5-2f9e9a97df41.png)
 
 #### 建築の販売
 
