@@ -52,6 +52,12 @@
                 "path": "/guide/chestshop",
                 "markdown": "/playguide-markdown/chestshop.md",
                 "isHidden": false
+            },
+            {
+                "name": "テレポート",
+                "path": "/guide/teleport",
+                "markdown": "/playguide-markdown/teleport.md",
+                "isHidden": false
             }
         ]
     },
